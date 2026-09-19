@@ -1,1 +1,1 @@
-# demo-repo for continuos integration
+# demo-repo for continuous integration
